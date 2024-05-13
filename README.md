@@ -1,3 +1,4 @@
+![logo](https://github.com/rayhan-fardous/rayhan-fardous/blob/main/GitHub%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Rayhan.</h1>
 <h3 align="center">A passionate Backend developer from Bangladesh.</h3>
 
