@@ -57,7 +57,7 @@ I love building useful web apps, learning new technologies, and contributing to 
 - 🎓 Graduate of [Your University], B.Sc. in CSE
 - 🌱 Currently learning: [e.g., React, Next.js]
 - 🎯 Goal: Become a Full Stack Developer
-- ⚡ Fun fact: [Something personal or funny]
+- ⚡ Fun fact: [I enjoy explaining tech to non-tech people... until they hand me their phones.]
 
 ---
 
