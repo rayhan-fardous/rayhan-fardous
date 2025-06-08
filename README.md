@@ -27,15 +27,15 @@ I love building useful web apps, learning new technologies, and contributing to 
 
 ### 📝 Latest Projects
 - 💼 **[Motivational Quote App]** — [A simple and elegant web application that displays motivational quotes to inspire users. Built with HTML, CSS, and JavaScript. https://github.com/rayhan-fardous/motivational-quote-app]
-- 📚 **[Project Name]** — [short description and link]
+- 📚 **[Custom Countdown]** — [A simple and customizable countdown timer built using HTML, CSS, and JavaScript. https://github.com/rayhan-fardous/custom-countdown]
 
 ---
 
 ### 📖 About Me
-- 🎓 Graduate of [Your University], B.Sc. in CSE
-- 🌱 Currently learning: [e.g., React, Next.js]
+- 🎓 Graduate of [American International University-Bangladesh], B.Sc. in CSE
+- 🌱 Currently learning: [JavaScript, React, Next.js]
 - 🎯 Goal: Become a Full Stack Developer
-- ⚡ Fun fact: [I enjoy explaining tech to non-tech people... until they hand me their phones.]
+- ⚡ Fun fact: I enjoy explaining tech to non-tech people... until they hand me their phones.
 
 ---
 
