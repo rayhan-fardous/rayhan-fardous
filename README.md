@@ -9,7 +9,7 @@ I love building useful web apps, learning new technologies, and contributing to 
 
 ### 📫 How to reach me:
 - 📧 Email: rayhan.fardous55@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [Rayhan-Fardous](https://www.linkedin.com/in/rayhanfardous/)
 - 🌐 Portfolio: [RayHan-Fardous](https://rayhan-fardous.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
