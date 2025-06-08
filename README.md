@@ -1,6 +1,7 @@
 ![logo](https://github.com/rayhan-fardous/rayhan-fardous/blob/main/GitHub%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Rayhan.</h1>
-<h3 align="center">A passionate Backend developer from Bangladesh.</h3>
+<h3 align="center">I'm a passionate **[Computer Science Graduate | Web Developer]** from [Bangladesh].  
+I love building useful web apps, learning new technologies, and contributing to open-source projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhan-fardous&label=Profile%20views&color=0e75b6&style=flat" alt="rayhan-fardous" /> </p>
 
@@ -22,7 +23,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhan-fardous&show_icons=true&locale=en&layout=compact" alt="rayhan-fardous" /></p>
 
 
-# Hi there 👋, I'm [Your Name]!
 
 I'm a passionate **[Your Role — e.g., Computer Science Graduate | Web Developer | Data Enthusiast]** from [Your Country].  
 I love building useful web apps, learning new technologies, and contributing to open-source projects.
