@@ -1,13 +1,16 @@
 ![logo](https://github.com/rayhan-fardous/rayhan-fardous/blob/main/GitHub%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Rayhan.</h1>
-<h3 align="center">I'm a passionate **[Computer Science Graduate | Web Developer]** from [Bangladesh].  
+<h3 align="center">I'm a passionate Computer Science Graduate | Web Developer from Bangladesh.  
 I love building useful web apps, learning new technologies, and contributing to open-source projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhan-fardous&label=Profile%20views&color=0e75b6&style=flat" alt="rayhan-fardous" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayhan-fardous" alt="rayhan-fardous" /></a> </p>
 
-- 📫 How to reach me **rayhan.fardous55@gmail.com**
+### 📫 How to reach me:
+- 📧 Email: rayhan.fardous55@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🌐 Portfolio: [RayHan-Fardous](https://rayhan-fardous.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,11 +25,6 @@ I love building useful web apps, learning new technologies, and contributing to 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhan-fardous&show_icons=true&locale=en&layout=compact" alt="rayhan-fardous" /></p>
 
-
-
-I'm a passionate **[Your Role — e.g., Computer Science Graduate | Web Developer | Data Enthusiast]** from [Your Country].  
-I love building useful web apps, learning new technologies, and contributing to open-source projects.
-
 ---
 
 ### 🔧 Technologies & Tools
@@ -35,15 +33,8 @@ I love building useful web apps, learning new technologies, and contributing to 
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
----
-
-### 📫 How to reach me:
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com) *(optional)*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayhan-fardous&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-fardous&layout=compact&theme=tokyonight)
 
 ---
 
