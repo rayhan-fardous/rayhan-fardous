@@ -26,7 +26,7 @@ I love building useful web apps, learning new technologies, and contributing to 
 ---
 
 ### 📝 Latest Projects
-- 💼 **[Project Name]** — [short description and link]
+- 💼 **[Motivational Quote App]** — [A simple and elegant web application that displays motivational quotes to inspire users. Built with HTML, CSS, and JavaScript. https://github.com/rayhan-fardous/motivational-quote-app]
 - 📚 **[Project Name]** — [short description and link]
 
 ---
