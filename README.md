@@ -21,7 +21,7 @@ I love building useful web apps, learning new technologies, and contributing to 
 
 ### 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rayhan-fardous&theme=radical&border_radius=6.1&currStreakLabel=0CEB2A&border=000000&ring=FFC400&fire=FF0E0E&sideNums=00EEFF&sideLabels=1D8BEB)](https://git.io/streak-stats)
+![[GitHub Streak](https://streak-stats.demolab.com?user=rayhan-fardous&theme=radical&border_radius=6.1&currStreakLabel=0CEB2A&border=000000&ring=FFC400&fire=FF0E0E&sideNums=00EEFF&sideLabels=1D8BEB)](https://git.io/streak-stats)
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayhan-fardous&theme=radical)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayhan-fardous&show_icons=true&theme=tokyonight)
