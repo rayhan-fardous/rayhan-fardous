@@ -1,8 +1,9 @@
 ![logo](https://github.com/rayhan-fardous/rayhan-fardous/blob/main/GitHub%20Banner.gif)
 
 ---
-
+<h1 align="center">
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+RayHan+Fardous%F0%9F%98%8E)
+</h1>
 <h3 align="center">I'm a passionate Computer Science Graduate | Web Developer from Bangladesh.  
 I love building useful web apps, learning new technologies, and contributing to open-source projects.</h3>
 
