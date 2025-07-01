@@ -25,7 +25,7 @@ I love building useful web apps, learning new technologies, and contributing to 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-fardous&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rayhan-fardous&theme=radical&border_radius=6.1&currStreakLabel=0CEB2A&border=000000&ring=FFC400&fire=FF0E0E&sideNums=00EEFF&sideLabels=1D8BEB)
+[![GitHub Streak](https://github-readme-streak-stats-one-lake.vercel.app?user=rayhan-fardous&theme=radical&border_radius=6.1&currStreakLabel=0CEB2A&border=000000&ring=FFC400&fire=FF0E0E&sideNums=00EEFF&sideLabels=1D8BEB)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayhan-fardous&show_icons=true&theme=tokyonight)
 
