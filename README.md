@@ -3,16 +3,15 @@
 ---
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+RayHan+Fardous%F0%9F%98%8E;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&pause=1000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+RayHan+Fardous%F0%9F%98%8E;" />
 </h1>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+RayHan+Fardous%F0%9F%98%8E)
 
-<h3 align="center">I'm a passionate Computer Science Graduate | Web Developer from Bangladesh.  
+<h3 align="center">I'm a passionate Web Developer from Bangladesh.  <br>
 I love building useful web apps, learning new technologies, and contributing to open-source projects.</h3>
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhan-fardous&label=Profile%20views&color=0e75b6&style=flat" alt="rayhan-fardous" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rayhan-fardous&label=Profile%20views&color=0e75b6&style=flat" alt="rayhan-fardous" /> </p>
 
 ### 📫 How to reach me:
 
@@ -20,14 +19,20 @@ I love building useful web apps, learning new technologies, and contributing to 
 - 💼 LinkedIn: [Rayhan-Fardous](https://www.linkedin.com/in/rayhanfardous/)
 - 🌐 Portfolio: [RayHan-Fardous](https://rayhan-fardous.netlify.app/)
 
----
 
-### 🔧 Technologies & Tools
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,javascript,typescript,php,laravel,mysql,git,github,vscode" />
+    <br>
+</div>
 
-![Languages](https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode)
+<br/>
+<hr/>
 
----
-
+ <br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
