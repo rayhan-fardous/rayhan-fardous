@@ -28,10 +28,10 @@ I love building useful web apps, learning new technologies, and contributing to 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=500 src="https://github-readme-streak-stats-one-lake.vercel.app?user=rayhan-fardous&theme=radical&border_radius=10&currStreakLabel=0CEB2A&border=000000&ring=FFC400&fire=FF0E0E&sideNums=00EEFF&sideLabels=1D8BEB" alt="streak stats"/> <br/> <br/>
+  <img width=500 src="https://github-readme-streak-stats-one-lake.vercel.app?user=rayhan-fardous&hide_border=true&theme=radical&border_radius=10&currStreakLabel=0CEB2A&border=000000&ring=FFC400&fire=FF0E0E&sideNums=00EEFF&sideLabels=1D8BEB" alt="streak stats"/> <br/> <br/>
   
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-fardous&border_radius=10&layout=compact&theme=radical" alt="top langs" /><br/> <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=rayhan-fardous&border_radius=10&rank_icon=github&theme=radical" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-fardous&hide_border=true&border_radius=10&layout=compact&theme=radical" alt="top langs" /><br/> <br/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=rayhan-fardous&hide_border=true&border_radius=10&rank_icon=github&theme=radical" alt="readme stats" />
   <br/><br/>
   <img width=600 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayhan-fardous&theme=radical" alt="top langs" />
 </div>
