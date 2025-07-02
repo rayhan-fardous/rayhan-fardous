@@ -2,6 +2,9 @@
 
 ---
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+RayHan+Fardous%F0%9F%98%8E;" />
+</h1>
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+RayHan+Fardous%F0%9F%98%8E)
 
 <h3 align="center">I'm a passionate Computer Science Graduate | Web Developer from Bangladesh.  
