@@ -7,13 +7,12 @@
 <h3 align="center">I'm a passionate Computer Science Graduate | Web Developer from Bangladesh.  
 I love building useful web apps, learning new technologies, and contributing to open-source projects.</h3>
 
-
-
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhan-fardous&label=Profile%20views&color=0e75b6&style=flat" alt="rayhan-fardous" /> </p>
 
 ### 📫 How to reach me:
+
 - 📧 Email: rayhan.fardous55@gmail.com
 - 💼 LinkedIn: [Rayhan-Fardous](https://www.linkedin.com/in/rayhanfardous/)
 - 🌐 Portfolio: [RayHan-Fardous](https://rayhan-fardous.netlify.app/)
@@ -21,29 +20,35 @@ I love building useful web apps, learning new technologies, and contributing to 
 ---
 
 ### 🔧 Technologies & Tools
+
 ![Languages](https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode)
 
 ---
 
-### 📈 GitHub Stats
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-one-lake.vercel.app?user=rayhan-fardous&theme=radical&border_radius=8.1&currStreakLabel=0CEB2A&border=000000&ring=FFC400&fire=FF0E0E&sideNums=00EEFF&sideLabels=1D8BEB" alt="streak stats"/> <br/> <br/>
+  
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-fardous&layout=compact&theme=tokyonight" alt="top langs" /><br/> <br/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=rayhan-fardous&rank_icon=github&theme=tokyonight" alt="readme stats" />
+  <br/><br/>
+  <img width=600 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayhan-fardous&theme=radical" alt="top langs" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-fardous&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats-one-lake.vercel.app?user=rayhan-fardous&theme=radical&border_radius=6.1&currStreakLabel=0CEB2A&border=000000&ring=FFC400&fire=FF0E0E&sideNums=00EEFF&sideLabels=1D8BEB)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayhan-fardous&show_icons=true&theme=tokyonight)
-
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayhan-fardous&theme=radical)
+<br/><br/>
 
 ---
 
 ### 📝 Latest Projects
+
 - 💼 **[Motivational Quote App]** — [A simple and elegant web application that displays motivational quotes to inspire users. Built with HTML, CSS, and JavaScript. https://github.com/rayhan-fardous/motivational-quote-app]
 - 📚 **[Custom Countdown]** — [A simple and customizable countdown timer built using HTML, CSS, and JavaScript. https://github.com/rayhan-fardous/custom-countdown]
 
 ---
 
 ### 📖 About Me
+
 - 🎓 Graduate of [American International University-Bangladesh], B.Sc. in CSE
 - 🌱 Currently learning: [JavaScript, React, Next.js]
 - 🎯 Goal: Become a Full Stack Developer
@@ -51,4 +56,4 @@ I love building useful web apps, learning new technologies, and contributing to 
 
 ---
 
-Thanks for visiting my profile! 😊 
+Thanks for visiting my profile! 😊
