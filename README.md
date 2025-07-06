@@ -11,7 +11,6 @@ I love building useful web apps, learning new technologies, and contributing to 
 
 ---
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rayhan-fardous&label=Profile%20views&color=0e75b6&style=flat" alt="rayhan-fardous" /> </p>
 
 ### 📫 How to reach me:
 
@@ -63,5 +62,7 @@ I love building useful web apps, learning new technologies, and contributing to 
 - ⚡ Fun fact: I enjoy explaining tech to non-tech people... until they hand me their phones.
 
 ---
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rayhan-fardous&label=Profile%20views&color=0e75b6&style=flat" alt="rayhan-fardous" /> </p>
+
 
 Thanks for visiting my profile! 😊
