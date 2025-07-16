@@ -40,7 +40,7 @@ I love building useful web apps, learning new technologies, and contributing to 
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-fardous&title_color=00&hide_border=true&border_radius=10&layout=compact&theme=radical" alt="top langs" /><br/> <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=rayhan-fardous&title_color=00EEFF&hide_border=true&border_radius=10&rank_icon=github&theme=radical" alt="readme stats" />
   <br/><br/>
-  <img width=600 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayhan-fardous&theme=radical" alt="graph" />
+  <img width=600 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayhan-fardous&theme=2077" alt="graph" />
 </div>
 
 <br/><br/>
