@@ -13,8 +13,8 @@ I love building useful web apps, learning new technologies, and contributing to 
 
 ### 📖 About Me
 
-- 🎓 Graduate of [American International University-Bangladesh], B.Sc. in CSE
-- 🌱 Currently learning: [React, Next.js]
+- 🎓 Graduate of **American International University-Bangladesh**, B.Sc. in CSE
+- 🌱 Currently learning: **Advanced React, Next.js**
 - 🎯 Goal: Become a Full Stack Developer
 - ⚡ Fun fact: I enjoy explaining tech to non-tech people... until they hand me their phones.
 
