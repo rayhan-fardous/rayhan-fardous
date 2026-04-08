@@ -11,6 +11,14 @@ I love building useful web apps, learning new technologies, and contributing to 
 
 ---
 
+### 📖 About Me
+
+- 🎓 Graduate of [American International University-Bangladesh], B.Sc. in CSE
+- 🌱 Currently learning: [React, Next.js]
+- 🎯 Goal: Become a Full Stack Developer
+- ⚡ Fun fact: I enjoy explaining tech to non-tech people... until they hand me their phones.
+
+---
 
 ### 📫 How to reach me:
 
@@ -35,31 +43,15 @@ I love building useful web apps, learning new technologies, and contributing to 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=500 src="https://github-readme-streak-stats-one-lake.vercel.app?user=rayhan-fardous&hide_border=true&theme=radical&border_radius=10&currStreakLabel=0CEB2A&ring=FFC400&fire=FF0E0E&sideNums=00EEFF&sideLabels=1D8BEB" alt="streak stats"/> <br/> <br/>
-  
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan-fardous&title_color=00&hide_border=true&border_radius=10&layout=compact&theme=radical" alt="top langs" /><br/> <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=rayhan-fardous&title_color=00EEFF&hide_border=true&border_radius=10&rank_icon=github&theme=radical" alt="readme stats" />
-  <br/><br/>
-  <img width=600 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayhan-fardous&theme=2077" alt="graph" />
-</div>
-
-<br/><br/>
+  <img width=500 src="https://github-readme-streak-stats-one-lake.vercel.app?user=rayhan-fardous&hide_border=true&theme=radical&border_radius=10&currStreakLabel=0CEB2A&ring=FFC400&fire=FF0E0E&sideNums=00EEFF&sideLabels=1D8BEB" alt="streak stats"/>
 
 ---
 
 ### 📝 Latest Projects
 
-- 💼 **[Motivational Quote App]** — [A simple and elegant web application that displays motivational quotes to inspire users. Built with HTML, CSS, and JavaScript. https://github.com/rayhan-fardous/motivational-quote-app]
-- 📚 **[Custom Countdown]** — [A simple and customizable countdown timer built using HTML, CSS, and JavaScript. https://github.com/rayhan-fardous/custom-countdown]
+- 💼 **Motivational Quote App** — A simple and elegant web application that displays motivational quotes to inspire users. Built with HTML, CSS, and JavaScript. <br> https://github.com/rayhan-fardous/motivational-quote-app 
+- 📚 **Custom Countdown** — A simple and customizable countdown timer built using HTML, CSS, and JavaScript. <br> https://github.com/rayhan-fardous/custom-countdown
 
----
-
-### 📖 About Me
-
-- 🎓 Graduate of [American International University-Bangladesh], B.Sc. in CSE
-- 🌱 Currently learning: [React, Next.js]
-- 🎯 Goal: Become a Full Stack Developer
-- ⚡ Fun fact: I enjoy explaining tech to non-tech people... until they hand me their phones.
 
 ---
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rayhan-fardous&label=Profile%20views&color=0e75b6&style=flat" alt="rayhan-fardous" /> </p>
