@@ -5,9 +5,9 @@
 <br/>
 <br/>
 
-<h1>Hi, I'm RayHan</h1>
+<h1>Hi, I'm Md Rayhan Ul Fardous</h1>
 
-<p><strong>Full Stack Web Developer from Bangladesh</strong></p>
+<p><strong>Full Stack Web Developer</strong></p>
 
 <p>I build fast, accessible web experiences. From design systems to production apps, I care about the details that make things feel right.</p>
 
@@ -26,6 +26,14 @@
 </p>
 
 </div>
+<hr>
+
+### 🚀 Current Activities
+
+- 🌱 I’m exploring **Next.js** and its advanced features.
+- 💻 I’m working on a **Blood Donation Website**.
+- 🔐 Learning more about **authentication, JWT, and backend security**.
+- 📚 Solving **Data Structures & Algorithms** problems on LeetCode.
 
 ---
 
@@ -102,6 +110,18 @@
 <br>
 <div align=center>
   <img width=500 src="https://github-readme-streak-stats-one-lake.vercel.app?user=rayhan-fardous&hide_border=true&theme=radical&border_radius=10&currStreakLabel=0CEB2A&ring=FFC400&fire=FF0E0E&sideNums=00EEFF&sideLabels=1D8BEB" alt="streak stats"/>
+
+
+  <br/><br/>
+  <img width=600 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayhan-fardous&theme=2077" alt="graph" />
+
+
+---
+
+### 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/rayhan-fardous/rayhan-fardous/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
+
 
 ---
 
